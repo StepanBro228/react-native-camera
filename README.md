@@ -3,7 +3,7 @@
 ## react-native-camera is deprecated.
 
 I dont now what to write.
-
+Again
 VisionCamera offers new APIs, better performance, improved stability and more features.
 It is actively maintained by [**@mrousavy**](https://github.com/mrousavy) and used in many production apps.
 
